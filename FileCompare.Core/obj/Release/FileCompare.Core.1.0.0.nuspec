@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FileCompare.Core</id>
+    <version>1.0.0</version>
+    <authors>FileCompare.Core</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\New folder\FileCompare\FileCompare.Core\bin\Release\net5.0\FileCompare.Core.dll" target="lib\net5.0\FileCompare.Core.dll" />
+  </files>
+</package>

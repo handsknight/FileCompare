@@ -1,0 +1,22 @@
+Login: 
+Input: email,passowrd
+output: email,token,name
+(token: email, password,date,sessiontimeout)
+actions: authenticate, generate token, return token
+
+Compare filess :
+Input: FirstStudentName, FirstStudentFile, SecondStudentName, SecondStudentFile
+Output: Percentage, similarcontent
+actions: upload files, compare files, store result, return reult(percentage)
+		
+History:
+1. GetAllHistory
+	id,FirstStudentName,FirstStudentFile,
+        SecondStudentName,SecondStudentFile,
+        Percentage,similarcontent
+actions: getall history, getbyid
+
+Logout:	
+input: email, token
+action: logout		
+       
