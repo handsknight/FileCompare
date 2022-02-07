@@ -1,0 +1,17 @@
+C:\New folder\FileCompare\FileCompare.Application\bin\Release\net5.0\FileCompare.Application.deps.json
+C:\New folder\FileCompare\FileCompare.Application\bin\Release\net5.0\FileCompare.Application.dll
+C:\New folder\FileCompare\FileCompare.Application\bin\Release\net5.0\ref\FileCompare.Application.dll
+C:\New folder\FileCompare\FileCompare.Application\bin\Release\net5.0\FileCompare.Application.pdb
+C:\New folder\FileCompare\FileCompare.Application\bin\Release\net5.0\FileCompare.Core.dll
+C:\New folder\FileCompare\FileCompare.Application\bin\Release\net5.0\FileCompare.Infastructure.dll
+C:\New folder\FileCompare\FileCompare.Application\bin\Release\net5.0\FileCompare.Core.pdb
+C:\New folder\FileCompare\FileCompare.Application\bin\Release\net5.0\FileCompare.Infastructure.pdb
+C:\New folder\FileCompare\FileCompare.Application\obj\Release\net5.0\FileCompare.Application.csproj.AssemblyReference.cache
+C:\New folder\FileCompare\FileCompare.Application\obj\Release\net5.0\FileCompare.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\FileCompare\FileCompare.Application\obj\Release\net5.0\FileCompare.Application.AssemblyInfoInputs.cache
+C:\New folder\FileCompare\FileCompare.Application\obj\Release\net5.0\FileCompare.Application.AssemblyInfo.cs
+C:\New folder\FileCompare\FileCompare.Application\obj\Release\net5.0\FileCompare.Application.csproj.CoreCompileInputs.cache
+C:\New folder\FileCompare\FileCompare.Application\obj\Release\net5.0\FileCompare.Application.csproj.CopyComplete
+C:\New folder\FileCompare\FileCompare.Application\obj\Release\net5.0\FileCompare.Application.dll
+C:\New folder\FileCompare\FileCompare.Application\obj\Release\net5.0\ref\FileCompare.Application.dll
+C:\New folder\FileCompare\FileCompare.Application\obj\Release\net5.0\FileCompare.Application.pdb

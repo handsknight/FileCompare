@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0f/lgVnjcLyejA6jiBZkRqEPN6LptjAMOztdFyVfx57W8UuDvnjGSJ1nHR26hd44froERPWZ97zT1xRGvEU5Fw==",
+  "dgSpecHash": "lHIk6Vv/1MKuXyp6bCCnuRIQA3KDYDHtjPYXZq/pzSjPjOh7tEzEp2uY8Ko7kX6UqyLXShtKJfVrZWmabActpg==",
   "success": true,
-  "projectFilePath": "C:\\New folder\\FileCompare\\FileCompare.API\\FileCompare.API.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\handsknight\\FileCompare\\FileCompare.API\\FileCompare.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.12\\microsoft.aspnetcore.authentication.jwtbearer.5.0.12.nupkg.sha512",

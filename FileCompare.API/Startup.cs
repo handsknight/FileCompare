@@ -44,7 +44,7 @@ namespace FileCompare.API
             services.AddDbContext<ApplicationDBContext>
                    (
                        options => options.UseSqlServer(
-                       Configuration.GetConnectionString("DefaultConnection"),
+                       Configuration.GetConnectionString("HostConnection"),
                        ef => ef.MigrationsAssembly(typeof(ApplicationDBContext).Assembly.FullName)),
                        ServiceLifetime.Scoped
                    );

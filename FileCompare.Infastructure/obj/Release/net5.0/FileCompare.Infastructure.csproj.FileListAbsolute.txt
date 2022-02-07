@@ -1,0 +1,15 @@
+C:\New folder\FileCompare\FileCompare.Infastructure\bin\Release\net5.0\FileCompare.Infastructure.deps.json
+C:\New folder\FileCompare\FileCompare.Infastructure\bin\Release\net5.0\FileCompare.Infastructure.dll
+C:\New folder\FileCompare\FileCompare.Infastructure\bin\Release\net5.0\ref\FileCompare.Infastructure.dll
+C:\New folder\FileCompare\FileCompare.Infastructure\bin\Release\net5.0\FileCompare.Infastructure.pdb
+C:\New folder\FileCompare\FileCompare.Infastructure\bin\Release\net5.0\FileCompare.Core.dll
+C:\New folder\FileCompare\FileCompare.Infastructure\bin\Release\net5.0\FileCompare.Core.pdb
+C:\New folder\FileCompare\FileCompare.Infastructure\obj\Release\net5.0\FileCompare.Infastructure.csproj.AssemblyReference.cache
+C:\New folder\FileCompare\FileCompare.Infastructure\obj\Release\net5.0\FileCompare.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\FileCompare\FileCompare.Infastructure\obj\Release\net5.0\FileCompare.Infastructure.AssemblyInfoInputs.cache
+C:\New folder\FileCompare\FileCompare.Infastructure\obj\Release\net5.0\FileCompare.Infastructure.AssemblyInfo.cs
+C:\New folder\FileCompare\FileCompare.Infastructure\obj\Release\net5.0\FileCompare.Infastructure.csproj.CoreCompileInputs.cache
+C:\New folder\FileCompare\FileCompare.Infastructure\obj\Release\net5.0\FileCompare.Infastructure.csproj.CopyComplete
+C:\New folder\FileCompare\FileCompare.Infastructure\obj\Release\net5.0\FileCompare.Infastructure.dll
+C:\New folder\FileCompare\FileCompare.Infastructure\obj\Release\net5.0\ref\FileCompare.Infastructure.dll
+C:\New folder\FileCompare\FileCompare.Infastructure\obj\Release\net5.0\FileCompare.Infastructure.pdb

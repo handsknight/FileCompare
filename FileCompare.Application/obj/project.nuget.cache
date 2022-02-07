@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yTpgsYELHzxx/1W/zDMnB/EkbjJ7/QtZcGk5PpyzHR92ZF/KYqsErbE2qzH7lPgOsVtQF5H1cOkikZR35ezIbg==",
+  "dgSpecHash": "Bb39wf0EM8z15uFC64Xl4AUQ6JkVEZoqHzxrUIWtScjUQfMH8hW3jLFyOJwGJYPHa3l6byDaNQS+awkImUBOsg==",
   "success": true,
-  "projectFilePath": "C:\\New folder\\FileCompare\\FileCompare.Application\\FileCompare.Application.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\handsknight\\FileCompare\\FileCompare.Application\\FileCompare.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.12\\microsoft.aspnetcore.cryptography.internal.5.0.12.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.12\\microsoft.aspnetcore.cryptography.keyderivation.5.0.12.nupkg.sha512",

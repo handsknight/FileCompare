@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qeReVIL5Ea/SzdDt3aw9cZryQGNetQTAqKiH9seWMS7wu/1QFX9Ag5oc3jK0cECGLRXVZtxmjHF/ROfYm+Tmtg==",
+  "dgSpecHash": "avRD+sBKKZyugoLDy4JcjllnkiYKPf0bHmRuM4umzsvEEr70jNkchp00bicLXB4kJ1GFm9Wyck++nFqT7jTecA==",
   "success": true,
-  "projectFilePath": "C:\\New folder\\FileCompare\\FileCompare.Core\\FileCompare.Core.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\handsknight\\FileCompare\\FileCompare.Core\\FileCompare.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.13\\microsoft.aspnetcore.http.features.5.0.13.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
